@@ -1,5 +1,13 @@
-# hello-world
-Welcome to see my program
+@media (prefers-color-scheme: dark){
+    * {
+        background-color: black !important;
+        color: white !important;
+    }
+}
 
-to go play minecraft
-ok
+@media (prefers-color-scheme: light){
+    * {
+        background-color: white !important;
+        color: black !important;
+    }
+}
